@@ -1,0 +1,3 @@
+# HmcCncServices
+
+三菱CNC雕刻机通过EZSocketNc信息采集，程序上传，西门子信息通过OPC协议采集程序和上传

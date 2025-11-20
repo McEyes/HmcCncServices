@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\HMC\\HmcCncServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|c:\\src\\hmc\\hmccncservices\\ezsocketnc\\eznc\\ezsocketfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|solutionrelative:ezsocketnc\\eznc\\ezsocketfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|C:\\src\\HMC\\HmcCncServices\\ezsocketnc\\interface\\iezsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|solutionrelative:ezsocketnc\\interface\\iezsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|C:\\src\\HMC\\HmcCncServices\\ezsocketnc\\siemens\\siemenssocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|solutionrelative:ezsocketnc\\siemens\\siemenssocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|c:\\src\\hmc\\hmccncservices\\ezsocketnc\\eznc\\ezncdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|solutionrelative:ezsocketnc\\eznc\\ezncdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EZSocketNc||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|c:\\src\\hmc\\hmccncservices\\ezsocketnc\\utils\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|solutionrelative:ezsocketnc\\utils\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\forms\\maincnc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\forms\\maincnc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\handlers\\hmccnchandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\handlers\\hmccnchandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\etcd.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\etcd.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\forms\\semensdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\forms\\semensdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\forms\\formdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\forms\\formdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\forms\\maincnc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\forms\\maincnc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\forms\\formdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\forms\\formdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\forms\\semensdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\forms\\semensdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|C:\\src\\HMC\\HmcCncServices\\ezsocketnc\\eznc\\ezcncinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|solutionrelative:ezsocketnc\\eznc\\ezcncinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|C:\\src\\HMC\\HmcCncServices\\hmccncservices\\forms\\addezcnc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{588561B4-0C5E-4510-A749-A0588A5555BE}|HmcCncServices\\HmcCncServices.csproj|solutionrelative:hmccncservices\\forms\\addezcnc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E658C18-2288-44C6-9A5A-3EEFCBB52067}|EZSocketNc\\EZSocketNc.csproj|c:\\src\\hmc\\hmccncservices\\ezsocketnc\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 298,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EZSocketFactory.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\EZNc\\EZSocketFactory.cs",
+              "RelativeDocumentMoniker": "EZSocketNc\\EZNc\\EZSocketFactory.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\EZNc\\EZSocketFactory.cs",
+              "RelativeToolTip": "EZSocketNc\\EZNc\\EZSocketFactory.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:43:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EZNcDef.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\EZNc\\EZNcDef.cs",
+              "RelativeDocumentMoniker": "EZSocketNc\\EZNc\\EZNcDef.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\EZNc\\EZNcDef.cs",
+              "RelativeToolTip": "EZSocketNc\\EZNc\\EZNcDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:43:40.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EZSocketNc",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\EZSocketNc.csproj",
+              "RelativeDocumentMoniker": "EZSocketNc\\EZSocketNc.csproj",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\EZSocketNc.csproj",
+              "RelativeToolTip": "EZSocketNc\\EZSocketNc.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T08:42:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogHelper.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\Utils\\LogHelper.cs",
+              "RelativeDocumentMoniker": "EZSocketNc\\Utils\\LogHelper.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\Utils\\LogHelper.cs",
+              "RelativeToolTip": "EZSocketNc\\Utils\\LogHelper.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T02:37:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDir.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\FormDir.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Forms\\FormDir.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\FormDir.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "HmcCncServices\\Forms\\FormDir.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:48:02.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEZSocket.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\Interface\\IEZSocket.cs",
+              "RelativeDocumentMoniker": "EZSocketNc\\Interface\\IEZSocket.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\Interface\\IEZSocket.cs",
+              "RelativeToolTip": "EZSocketNc\\Interface\\IEZSocket.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:32:44.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SiemensSocket.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\Siemens\\SiemensSocket.cs",
+              "RelativeDocumentMoniker": "EZSocketNc\\Siemens\\SiemensSocket.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\Siemens\\SiemensSocket.cs",
+              "RelativeToolTip": "EZSocketNc\\Siemens\\SiemensSocket.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAAMUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:42:53.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainCnc.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\MainCnc.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Forms\\MainCnc.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\MainCnc.cs",
+              "RelativeToolTip": "HmcCncServices\\Forms\\MainCnc.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAhwFsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:42:42.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormDir.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\FormDir.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Forms\\FormDir.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\FormDir.cs",
+              "RelativeToolTip": "HmcCncServices\\Forms\\FormDir.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:48:06.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HmcCncHandler.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Handlers\\HmcCncHandler.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Handlers\\HmcCncHandler.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Handlers\\HmcCncHandler.cs",
+              "RelativeToolTip": "HmcCncServices\\Handlers\\HmcCncHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:23:24.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SemensDir.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\SemensDir.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Forms\\SemensDir.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\SemensDir.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "HmcCncServices\\Forms\\SemensDir.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:49:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "etcd.json",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\etcd.json",
+              "RelativeDocumentMoniker": "HmcCncServices\\etcd.json",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\etcd.json",
+              "RelativeToolTip": "HmcCncServices\\etcd.json",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAADIBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T02:03:27.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SemensDir.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\SemensDir.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Forms\\SemensDir.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\SemensDir.cs",
+              "RelativeToolTip": "HmcCncServices\\Forms\\SemensDir.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAowJ4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:57:00.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Forms\\Form1.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\Form1.cs",
+              "RelativeToolTip": "HmcCncServices\\Forms\\Form1.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv2kAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:40:17.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainCnc.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\MainCnc.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Forms\\MainCnc.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\MainCnc.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "HmcCncServices\\Forms\\MainCnc.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:47:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EZCncInfo.cs",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\EZNc\\EZCncInfo.cs",
+              "RelativeDocumentMoniker": "EZSocketNc\\EZNc\\EZCncInfo.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\EZSocketNc\\EZNc\\EZCncInfo.cs",
+              "RelativeToolTip": "EZSocketNc\\EZNc\\EZCncInfo.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAA3wBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:48:20.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddEzCnc.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\AddEzCnc.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Forms\\AddEzCnc.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\AddEzCnc.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "HmcCncServices\\Forms\\AddEzCnc.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:47:59.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "HmcCncServices\\Forms\\Form1.cs",
+              "ToolTip": "C:\\src\\HMC\\HmcCncServices\\HmcCncServices\\Forms\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "HmcCncServices\\Forms\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:47:55.115Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 520,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

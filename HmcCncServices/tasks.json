@@ -1,0 +1,15 @@
+﻿{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/HmcCncServices.csproj" // 更新项目路径
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
