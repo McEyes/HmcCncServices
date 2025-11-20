@@ -1,9 +1,9 @@
 ﻿[
   {
-    "Name": "HmcCnc",
-    "Kind": "HmcCnc",
-    "Workcell": "Hmc",
-    "Bay": "Hmc",
+    "Name": "McEyesCnc",
+    "Kind": "McEyesCnc",
+    "Workcell": "McEyes",
+    "Bay": "McEyes",
     "Enable": true,
     "IsDebug": true,
     "HeartBeat": 10,
@@ -12,8 +12,8 @@
     "Mqtt": {
       "Host": "cnhuam0itiot81",
       "Port": 1883,
-      "User": "jabilit",
-      "Password": "jabilit",
+      "User": "mqtt",
+      "Password": "123456",
       "Qos": 0,
       "Source": "CncJagent"
     },
